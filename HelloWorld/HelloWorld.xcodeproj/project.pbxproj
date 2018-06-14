@@ -13,6 +13,7 @@
 		18454E3B20D20DC1009A71C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18454E3A20D20DC1009A71C5 /* Assets.xcassets */; };
 		18454E3E20D20DC1009A71C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18454E3C20D20DC1009A71C5 /* LaunchScreen.storyboard */; };
 		18454E4120D20DC1009A71C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18454E4020D20DC1009A71C5 /* main.m */; };
+		18454E4C20D23B1E009A71C5 /* UIViewTouchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 18454E4B20D23B1E009A71C5 /* UIViewTouchTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		18454E3D20D20DC1009A71C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18454E3F20D20DC1009A71C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18454E4020D20DC1009A71C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18454E4A20D23B1E009A71C5 /* UIViewTouchTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewTouchTest.h; sourceTree = "<group>"; };
+		18454E4B20D23B1E009A71C5 /* UIViewTouchTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewTouchTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				18454E3220D20DC0009A71C5 /* AppDelegate.m */,
 				18454E3420D20DC0009A71C5 /* ViewController.h */,
 				18454E3520D20DC0009A71C5 /* ViewController.m */,
+				18454E4A20D23B1E009A71C5 /* UIViewTouchTest.h */,
+				18454E4B20D23B1E009A71C5 /* UIViewTouchTest.m */,
 				18454E3720D20DC0009A71C5 /* Main.storyboard */,
 				18454E3A20D20DC1009A71C5 /* Assets.xcassets */,
 				18454E3C20D20DC1009A71C5 /* LaunchScreen.storyboard */,
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18454E4C20D23B1E009A71C5 /* UIViewTouchTest.m in Sources */,
 				18454E3620D20DC0009A71C5 /* ViewController.m in Sources */,
 				18454E4120D20DC1009A71C5 /* main.m in Sources */,
 				18454E3320D20DC0009A71C5 /* AppDelegate.m in Sources */,
